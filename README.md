@@ -19,7 +19,7 @@ This Python application provides a graphical user interface (GUI) for checking p
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/password-checker.git
+   git clone https://github.com/Dragoseven/password-checker.git
    cd password-checker
    ```
 
